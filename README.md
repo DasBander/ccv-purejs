@@ -1,10 +1,13 @@
-#Face detection js
+#Face Detection (NodeJS)
 
 A fork of the [pure-javascript face detection](https://github.com/liuliu/ccv/tree/current/js) in [Liu Liu's CCV library](https://github.com/liuliu/ccv) (in branch 'current'), converted for Node and npm.
+Updated Dependencies to work with the newest canvas version
 
 # Usage
 
 This package provides the method `detect_objects`, to which you pass a parameters hash. The most important parameter is the canvas obj, into which you should have already loaded an image.
+
+
 
 This method returns an array of hashes, each representing a face, with the following fields:
 

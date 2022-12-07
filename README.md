@@ -1,4 +1,4 @@
-#Face Detection (NodeJS)
+# Face Detection (NodeJS)
 
 A fork of the [pure-javascript face detection](https://github.com/liuliu/ccv/tree/current/js) in [Liu Liu's CCV library](https://github.com/liuliu/ccv) (in branch 'current'), converted for Node and npm.
 Updated Dependencies to work with the newest canvas version
